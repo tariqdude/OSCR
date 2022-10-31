@@ -8,8 +8,6 @@
 
 ### CBD
 
-### Cannabis Law
-
 ### Companies
 
 ### Extract
@@ -27,6 +25,8 @@
 ### Media
 
 ### Mycology
+
+### Research
 
 ### Solventless
 
