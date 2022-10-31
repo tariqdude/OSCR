@@ -18,7 +18,7 @@
 
  # Agenda
   
-- ### Federal, State & Local Cannabis Tax & Healthcare Reform
+- ### Federal, State & Local Cannabis Tax & Healthcare Reforms
   
   - Relocate all Federal, State & Local enforcment money into fighting fentanyl.
   - All cannabis taxes to go towards infrastructure, education, & health care.
