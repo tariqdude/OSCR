@@ -2,6 +2,8 @@
 
 **<div align="center">Legal, medical and recreational cannabis resources that will help everyone from the intro grower to academia.</div>**
 
+**<div align="center">Cannabis Law/ Policy analysis and Research.</div>**
+
 ## Categories
 
 ### Archive
