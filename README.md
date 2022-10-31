@@ -4,16 +4,30 @@
 
 ## Categories
 
+### Archive
+
+### CBD
+
+### Hemp
+
 ### Cannabis Law
+
+### Companies
+
+### Extract
+
+### General
+
+### Genetics/ Seeds
+
+### Growing
 
 ### Media
 
-### Horticulture
+### Mycology
 
-### Extraction
+### Solventless
 
 ### Science
 
-### Mycology
-
-### Archive
+### Shop
