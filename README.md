@@ -17,6 +17,10 @@
 </div>
 
  # Agenda
+ 
+- ### Legislative / Policy / Educational research
+  - criminal justice administration, public health, and public safety, as well as their various intersections
+  - help inform the work of lawmakers, regulators and advocates eager to promote evidence-based best practices and policies in emerging and future reforms efforts
   
 - ### Federal, State & Local Cannabis Tax & Healthcare Reform
   
