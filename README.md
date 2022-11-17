@@ -27,21 +27,18 @@
 
 - Using open source methods to research policy, write legislation and pass bills in key battleground states
   
-  - decriminalizes small amounts
-
-  - creates a healthcare initiative using big pharma money
-
-  - Banning all law enforcement, elected officials from diverting tax funds elsewhere
-
-  - Banning asset forfeiture for legal licensed businesses and distribution companies
- 
-  - Relocate all Federal, State & Local enforcement money into fighting fentanyl
-
+  - Creation of a nationwide healthcare initiative using big pharma money
+     - Abolishing drug schedules via executive order or congress
+     - Decriminalizing small amounts of all drugs
+     - Initiatives that deploy millions of healthcare workers for non violent drug offenses
+  
   - All cannabis taxes to go towards infrastructure, education, & health care.
+      - Banning all law enforcement, elected officials from diverting tax funds elsewhere
+      - Relocate all Federal, State & Local enforcement money into fighting fentanyl
 
-  - California Farmers bill - banning enforcement practices that are established with intent to harm targeted farmers in certain counties
-
-  - reversal of all harmful drug policies and derivatives essentially ending the drug war via executive order by abolishing drug schedules 
+  - Farmers Protection Bill
+     - Establishment of legal craft growing guidelines for all 50 states
+     - banning enforcement practices that are established with intent to harm targeted farmers in certain counties
 
 ***
 
