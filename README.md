@@ -10,9 +10,12 @@
 
 | <h3> Institutional Analysis </h3> | <h3> Science </h3> | <h3> Economics </h3> | <h3> Extract </h3> | <h3> Media </h3> | <h3> Growing </h3> |
 |                            ------ |             ------ |             ------ |             ------ |           ------ |                 ------ |
-|                          <h4> Law |          <h4> Data |      <h4> Agencies |           <h4> CBD |       <h4> Books |      <h4> Horticulture | 
-|                  <h4> Drug Policy |    <h4> Healthcare |   <h4> Tax Reforms |       <h4> Solvent |     <h4> Youtube |              <h4> Hemp |
-|                  <h4> Enforcment  |      <h4> Research |  <h4>  Legislation |   <h4> Solventless |    <h4> Articles |          <h4> Mycology |
+|                          <h4> Blank |          <h4> Blank |      <h4> Blank |          <h4> Blank |       <h4> Blank   |     <h4> Blank | 
+|                  <h4> Blank |    <h4> Blank |   <h4> Blank |       <h4> Blank |   <h4> Blank |              <h4> Blank |
+|                  <h4> Blank  |      <h4> Blank |  <h4> Blank |   <h4> Blank |    <h4> Blank   |            <h4> Blank |          <h4> Blank |
+|                  <h4> Blank  |      <h4> Blank |  <h4> Blank |   <h4> Blank |    <h4> Blank |          <h4> Blank |
+|                  <h4> Blank  |      <h4> Blank |  <h4> Blank|   <h4> Blank |    <h4> Blank |          <h4> Blank |
+|                  <<h4> Blank  |      <h4> Blank |  <h4> Blank |  <h4> Blank |    <h4> Blank |          <h4> Blank |
                            
 </div>
 
