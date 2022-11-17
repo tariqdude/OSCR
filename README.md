@@ -30,7 +30,7 @@
   - Creation of a nationwide healthcare initiative using big pharma money
      - Abolishing drug schedules via executive order or congress
      - Decriminalizing small amounts of all drugs
-     - Initiatives that deploy millions of healthcare workers for non violent drug offenses
+     - Deployment of millions of healthcare workers for non violent drug offenses
   
   - All cannabis taxes to go towards infrastructure, education, & health care.
       - Banning all law enforcement, elected officials from diverting tax funds elsewhere
