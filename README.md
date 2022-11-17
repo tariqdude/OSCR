@@ -15,7 +15,7 @@
 |                  <h4> Blank  |      <h4> Blank |  <h4> Blank |   <h4> Blank |    <h4> Blank   |            <h4> Blank |          <h4> Blank |
 |                  <h4> Blank  |      <h4> Blank |  <h4> Blank |   <h4> Blank |    <h4> Blank |          <h4> Blank |
 |                  <h4> Blank  |      <h4> Blank |  <h4> Blank|   <h4> Blank |    <h4> Blank |          <h4> Blank |
-|                  <<h4> Blank  |      <h4> Blank |  <h4> Blank |  <h4> Blank |    <h4> Blank |          <h4> Blank |
+|                  <h4> Blank  |      <h4> Blank |  <h4> Blank |  <h4> Blank |    <h4> Blank |          <h4> Blank |
                            
 </div>
 
