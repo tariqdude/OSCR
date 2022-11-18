@@ -21,10 +21,6 @@
 
 # Goals
 
-- Open Source data collection and repository for commercial and craft cannabis
-
-- help inform the work of lawmakers, regulators and advocates eager to promote evidence-based best practices and policies in emerging and future reforms efforts
-
-- Using open source methods to research policy, write legislation and pass bills in key battleground states
+- Test
 
 ***
