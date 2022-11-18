@@ -27,37 +27,22 @@
 
 - Using open source methods to research policy, write legislation and pass bills in key battleground states
   
-  - Creation of a nationwide healthcare initiative using big pharma money
+     - 
      - Abolishing drug schedules via executive order or congress
      - Decriminalizing small amounts of all drugs
-     - Deployment of millions of healthcare workers for non violent drug offenses
   
-  - All cannabis taxes to go towards infrastructure, education, & health care.
+  - Nationwide healthcare initiative using big pharma money
+     
+     - Deployment of millions of healthcare workers for non violent drug offenses
+     - Funding rehabilitation services fully for the next 45 years
+  
+  - Taxes to go towards Infrastructure, Education, & Health care
+  
       - Banning all law enforcement, elected officials from diverting tax funds elsewhere
-      - Relocate all Federal, State & Local enforcement money into fighting fentanyl
 
-  - Farmers Protection Bill
+  - Farmers Unionization
+     
      - Establishment of legal craft growing guidelines for all 50 states
-     - banning enforcement practices that are established with intent to harm targeted farmers in certain counties
+     - Banning enforcement practices that are designed with intent to harm
 
 ***
-
-# Agenda
-
-* New York
-
-* Chicago
-
-* Los Angeles
-
-* San Francisco
-
-***
-
-# Ideas
-
-- Money Tracker
-
-- abuse tracker
-
-- Important court cases
