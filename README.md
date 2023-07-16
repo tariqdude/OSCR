@@ -57,6 +57,14 @@ Provide examples and instructions on how to use your project. You can include co
 
 If your project exposes an API, provide a detailed documentation section on how to interact with it, including endpoints, request/response examples, and authentication instructions.
 
+### :gear: Configuration
+
+Explain any configuration options or environment variables that can be used to customize the behavior of your project.
+
+### :art: Style Guide
+
+Define the coding style and guidelines for your project, including formatting conventions, naming conventions, and best practices.
+
 ## :handshake: Contributing
 
 Thank you for considering contributing to this project! Here's how you can get started:
@@ -104,5 +112,9 @@ Provide links to additional resources or references that can help users understa
 ## :white_check_mark: Roadmap
 
 Outline the future plans and upcoming features for your project, providing users with an insight into what they can expect in future releases.
+
+## :memo: Documentation
+
+Provide additional documentation or guides related to your project, such as tutorials, API references, or troubleshooting guides.
 
 ---
